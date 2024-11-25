@@ -3,7 +3,7 @@
 
 ## The App URL
 
-[
+[app](https://674466005bbf053dccba284f--kcaproject.netlify.app/)
 
 # Project Purpose
 Netflixx is a movie app designed to provide users with a seamless movie discovery and watching experience. The main goal of the app is to allow users to easily explore and find information about movies, such as title, synopsis and reviews. With a user-friendly interface and smooth navigation, Netflixx aims to enhance the overall movie-watching experience for its users.
